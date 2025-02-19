@@ -1,0 +1,32 @@
+C:\Teollisen internetin perusteet\CSharp\ListViewExample\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.exe
+C:\Teollisen internetin perusteet\CSharp\ListViewExample\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.deps.json
+C:\Teollisen internetin perusteet\CSharp\ListViewExample\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.runtimeconfig.json
+C:\Teollisen internetin perusteet\CSharp\ListViewExample\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.dll
+C:\Teollisen internetin perusteet\CSharp\ListViewExample\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.pdb
+C:\Teollisen internetin perusteet\CSharp\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.ListViewExample.resources
+C:\Teollisen internetin perusteet\CSharp\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.csproj.GenerateResource.cache
+C:\Teollisen internetin perusteet\CSharp\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teollisen internetin perusteet\CSharp\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.AssemblyInfoInputs.cache
+C:\Teollisen internetin perusteet\CSharp\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.AssemblyInfo.cs
+C:\Teollisen internetin perusteet\CSharp\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.csproj.CoreCompileInputs.cache
+C:\Teollisen internetin perusteet\CSharp\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.dll
+C:\Teollisen internetin perusteet\CSharp\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\refint\ListViewExample.dll
+C:\Teollisen internetin perusteet\CSharp\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.pdb
+C:\Teollisen internetin perusteet\CSharp\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.genruntimeconfig.cache
+C:\Teollisen internetin perusteet\CSharp\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ref\ListViewExample.dll
+C:\Users\35840\Desktop\teollisuuden-iot\ListViewExample\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.exe
+C:\Users\35840\Desktop\teollisuuden-iot\ListViewExample\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.deps.json
+C:\Users\35840\Desktop\teollisuuden-iot\ListViewExample\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.runtimeconfig.json
+C:\Users\35840\Desktop\teollisuuden-iot\ListViewExample\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.dll
+C:\Users\35840\Desktop\teollisuuden-iot\ListViewExample\ListViewExample\bin\Debug\net8.0-windows\ListViewExample.pdb
+C:\Users\35840\Desktop\teollisuuden-iot\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.ListViewExample.resources
+C:\Users\35840\Desktop\teollisuuden-iot\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.csproj.GenerateResource.cache
+C:\Users\35840\Desktop\teollisuuden-iot\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35840\Desktop\teollisuuden-iot\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.AssemblyInfoInputs.cache
+C:\Users\35840\Desktop\teollisuuden-iot\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.AssemblyInfo.cs
+C:\Users\35840\Desktop\teollisuuden-iot\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.csproj.CoreCompileInputs.cache
+C:\Users\35840\Desktop\teollisuuden-iot\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.dll
+C:\Users\35840\Desktop\teollisuuden-iot\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\refint\ListViewExample.dll
+C:\Users\35840\Desktop\teollisuuden-iot\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.pdb
+C:\Users\35840\Desktop\teollisuuden-iot\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ListViewExample.genruntimeconfig.cache
+C:\Users\35840\Desktop\teollisuuden-iot\ListViewExample\ListViewExample\obj\Debug\net8.0-windows\ref\ListViewExample.dll
